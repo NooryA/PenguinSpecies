@@ -1,2 +1,2 @@
 # PenguinSpecies
-python code which guesses the penguin species using ML
+jupyter notebook which guesses the penguin species using different models in ML
